@@ -1,0 +1,2 @@
+# cdn
+to use CDN
